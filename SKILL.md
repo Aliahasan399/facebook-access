@@ -15,7 +15,7 @@ metadata:
 
 Manage your Facebook Pages and Groups through **Hermes Agent** using the **Meta Graph API**.
 
-> **Created by:** Ali Ahsan ([@Aliahasan399](https://github.com/Aliahasan399))
+> **Created by:** Ali Ahsan ([GitHub](https://github.com/Aliahasan399) · [LinkedIn](https://www.linkedin.com/in/ali-ahasan-md-moshiur-rahaman-a272343a7))
 > This is a user-created skill — not an official Hermes Agent skill.
 
 ## What You Can Do
