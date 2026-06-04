@@ -54,6 +54,29 @@ This is like a key that lets the script talk to Facebook on your behalf. You get
 
 ## 🪜 Step-by-Step Setup Guide
 
+### 🚀 One-Click Setup (Recommended)
+
+If you already have Hermes Agent installed, just run:
+
+```bash
+# Clone the repo
+git clone git@github.com:Aliahasan399/facebook-access.git
+cd facebook-access
+
+# Run one-click setup
+python3 setup.py
+```
+
+The script will:
+1. ✅ Detect your Hermes profile automatically
+2. ✅ Copy skill files to the right location
+3. ✅ Guide you through Facebook Access Token setup
+4. ✅ Verify everything works
+
+### 🛠️ Manual Setup
+
+If you prefer to do it yourself, follow the steps below.
+
 ### Step 1: Create a Facebook App
 
 1. Go to **[Meta Developer Portal](https://developers.facebook.com/apps/creation/)**
